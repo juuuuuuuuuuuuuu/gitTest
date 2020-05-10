@@ -4,6 +4,7 @@ class Test() {
   }
 
   init() {
+    console.log('ls');
     console.log('test);
   }
 }
