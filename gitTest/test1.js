@@ -4,9 +4,8 @@ class Test() {
   }
 
   init() {
-    console.log('test2');
     console.log('ls');
-    console.log('test');
+    console.log('test);
   }
 }
 export default Test;
