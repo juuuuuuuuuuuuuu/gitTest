@@ -12,3 +12,7 @@ function test2() {
 
     // master test
 }
+
+function masterTest() {
+  // master test
+}
