@@ -6,3 +6,7 @@ function utils() {
     // TODO
     // feature01 테스트
 }
+
+function test() {
+  // feature01 테스트
+}
