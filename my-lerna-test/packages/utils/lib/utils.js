@@ -9,4 +9,6 @@ function utils() {
 
 function test2() {
   // feature02 테스트
+
+    // master test
 }
