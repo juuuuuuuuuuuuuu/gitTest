@@ -7,3 +7,7 @@ function utils() {
 
     // master test
 }
+
+function masterTest() {
+  // master test
+}
