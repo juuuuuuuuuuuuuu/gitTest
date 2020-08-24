@@ -10,3 +10,7 @@ function utils() {
   // 팝콘사기
   // 콜라사기
 }
+
+function test()  {
+
+}
