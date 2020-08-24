@@ -9,6 +9,7 @@ function utils() {
   // 핫도그사기
   // 팝콘사기
   // 콜라사기
+  // 영화보기
 }
 
 function test()  {
